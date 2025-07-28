@@ -23,16 +23,16 @@ You can visit directly here:
 3. Use it using keyboard and mouse.
 
 ## 📚 What I Learned
--DOM manipulation and event handling
--Input validation and numeric constraints
--Implementing number-to-symbol algorithms
--Writing modular and readable JavaScript
--Responsive design using utility-first CSS
+- DOM manipulation and event handling
+- Input validation and numeric constraints
+- Implementing number-to-symbol algorithms
+- Writing modular and readable JavaScript
+- Responsive design using utility-first CSS
 
 ## 🛠 Tech Stack
--HTML
--CSS (Tailwind-style custom variables)
--JavaScript
+- HTML
+- CSS (Tailwind-style custom variables)
+- JavaScript
 
 ## 🧑‍💻 Author
 
